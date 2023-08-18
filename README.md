@@ -1,3 +1,5 @@
+WARNING: This is not a currently supported Eleanor SDK. There is now no supported Golang SDK. Contributions welcome!
+
 # Optimizely Go Library
 
 The Optimizely Go library provides convenient access to the Optimizely API from Go.
